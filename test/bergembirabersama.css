@@ -1,0 +1,67 @@
+*
+{
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+}
+
+body
+{
+    margin: 0;
+    padding: 0;
+    background-image: url('https://img.freepik.com/free-vector/cloudy-purple-pink-background_91008-257.jpg?t=st=1685512191~exp=1685512791~hmac=0a975785c4fc84ae8b4f8013fa0a7baf836f6ca38f6ebe3e3d21eee1d8e13145');
+    background-size: cover;
+}
+
+ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    float: right;
+}
+
+ul li
+{
+    float:left;
+    font-weight: bold;
+    text-align: left;
+    padding: 0px 16px 0px 16px;
+    text-decoration: none;
+}
+
+#bergembirabersama
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pic2
+{
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.foto2
+{
+    width: 120%;
+    height: 120%;
+}
+
+.kolom
+{
+    width: 60%;
+    padding: 80px;
+    padding-bottom: 20px;
+    font-size: 25px;
+    color: black;
+    font-weight: 800;
+}

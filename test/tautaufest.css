@@ -1,0 +1,69 @@
+*
+{
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+}
+
+body
+{
+    margin: 0;
+    padding: 0;
+    background-image: url('https://img.freepik.com/free-vector/cloudy-purple-pink-background_91008-257.jpg?t=st=1685512191~exp=1685512791~hmac=0a975785c4fc84ae8b4f8013fa0a7baf836f6ca38f6ebe3e3d21eee1d8e13145');
+    background-size: cover;
+}
+
+ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+ul li
+{
+    float:left;
+}
+
+ul li a
+{
+    font-weight: bold;
+    text-align: center;
+    padding: 0px 16px 0px 16px;
+    text-decoration: none;
+}
+
+#ikanbakar
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pic3
+{
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.foto3
+{
+    width: 100%;
+    height: 100%;
+}
+
+.kolom
+{
+    width: 60%;
+    padding: 80px;
+    padding-bottom: 20px;
+    font-size: 25px;
+    color: black;
+    font-weight: 800;
+}
